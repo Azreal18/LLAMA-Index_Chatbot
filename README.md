@@ -1,4 +1,4 @@
-<h1 align="center" id="title">LLAMA-Index_Chatbot</h1>
+<h1 align="center" id="title">RAG_Chatbot</h1>
 
 <p id="description">This chatbot is designed to read data from PDFs in a specified path and generate responses based on user questions. The underlying framework used for this purpose is referred to as "LLAMA."</p>
 
